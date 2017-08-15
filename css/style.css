@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+h1, p {
+  color: lightblue;
+  font-family: "Georgia", serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
